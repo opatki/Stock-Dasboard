@@ -16,3 +16,4 @@
 - Visualization: Chart.js / Recharts for interactive graphs
 - AI/NLP: Summarization of stock performance and news
 
+
